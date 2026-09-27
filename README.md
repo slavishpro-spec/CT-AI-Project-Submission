@@ -13,6 +13,6 @@ Task 6 (AI Presentation): 5-slide outline covering objectives, features, budget,
 
 Task 7 (Reflection Report): 1-page reflection covering AI tools, challenges, verification, and responsible AI use.
 
-Task 8 (Saving as PDF): Exporting the combined master document into AI_Project_Aravali_Sec43_Submission.pdf.
+Task 8 (Saving as PDF): Exporting the combined master document into AI_Project_Aravali_Sec43_Submission (1).pdf.
 
 Task 9 (Project Submission): Uploading the PDF to a flipbook platform (or hosting on GitHub Pages) and sharing the live link/QR code.
